@@ -1,0 +1,64 @@
+#navbar ul li a:hover,
+#navbar ul li a.current {
+	color: #a7e8db;
+	
+	font-weight: bold;
+	transition: all 0.2s ease 0s ;
+
+}
+
+
+.top-container a:hover {
+	color: #1abc9c;
+	background: #a7e8db;
+	font-weight: bold;
+	transition: all 0.2s ease 0s;
+}
+
+.footer-link:hover {
+	color: #a7e8db;
+	font-weight: bold;
+	transition: all 0.2s ease 0s;
+}
+
+.bottom-container .copyright {
+
+  font-size: 16px;
+color: #fff;
+
+}
+
+.span {
+  
+  border-bottom: 5px solid #1abc9c;
+  
+}
+
+
+.btn a {
+	color: #fff;
+}
+
+.btn {
+		margin-bottom: 10px;
+		background-color: #1abc9c;
+		padding-top: 15px;
+		font-weight: bold;
+		font-size: 16px;
+		border: none;
+		
+		cursor: pointer;
+}
+
+.btn a:hover {
+	color: #1abc9c;
+	background: #a7e8db;
+	font-weight: bold;
+	transition: all 0.2s ease 0s;
+	padding: 10px 15px;
+	border-radius: 50px;
+}
+
+.input-items {
+	color: #333;
+}

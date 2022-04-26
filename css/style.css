@@ -1,0 +1,297 @@
+/* 
+
+color: #32407b [Blue], #fe346e [Pink]
+
+*/
+
+/* Reset */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	font-family: Poppins, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif,
+		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	line-height: 4px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+h2 {
+	margin-bottom: 20px;
+	color: #1abc9c;
+}
+
+h3 {
+	margin-bottom: 20px;
+	color: #1abc9c;
+}
+
+p {
+	font-size: 18px;
+	margin: 10px 0;
+}
+
+/*Header*/
+
+header {
+	width: 100%;
+}
+
+/* Navbar */
+
+#navbar {
+	background-color: #1abc9c;
+	padding: 45px;
+}
+
+#navbar h1 {
+	float: left;
+	color: #fff;
+}
+
+#navbar ul {
+	float: right;
+}
+
+#navbar ul li {
+	list-style: none;
+	float: left;
+}
+
+#navbar ul li a {
+	padding: 45px;
+
+	color: #fff;
+}
+
+/* Top Container */
+
+.top-container {
+	position: relative;
+	padding-top: 120px;
+}
+
+.top-container h1 {
+	font-size: 45px;
+	padding-bottom: 50px;
+}
+
+.top-container img {
+	width: 20%;
+	margin-top: 30px;
+	margin-bottom: 45px;
+}
+
+.top-container a {
+	display: inline-block;
+	background-color: #1abc9c;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	padding: 26px 75px;
+	font-size: 18px;
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+}
+
+/* Bottom Container */
+
+.bottom-container {
+	color: #fff;
+	background-color: #1abc9c;
+	text-decoration: none;
+	padding: 50px 0 20px;
+}
+
+.bottom-container p {
+	padding-top: 30px;
+}
+
+.bottom-container .footer-link {
+	color: #fff;
+
+	margin: 10px 20px;
+	text-decoration: none;
+}
+
+/* About Wasabi */
+
+.about {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.about img {
+	width: 10%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.about h2 {
+	margin-bottom: 50px;
+	font-size: 30px;
+}
+
+.about p {
+	text-align: center;
+	line-height: 2;
+}
+
+/* Learning 1 */
+
+.learning-1 {
+	background: #1abc9c;
+	padding: 100px;
+	margin-bottom: 10px;
+}
+
+.learning-1 img {
+	width: 10%;
+}
+
+/*--------------------------------------------------------------*/
+
+.learning-1 .fast-learning {
+	margin-bottom: 250px;
+}
+
+.learning-1 .fast-learning p {
+	text-align: left;
+	line-height: 2;
+	color: white;
+	margin-left: 25%;
+}
+
+.learning-1 .fast-learning h3 {
+	text-align: left;
+	color: #a7e8db;
+	margin-left: 25%;
+}
+
+.learning-1 .fast-learning .student {
+	float: right;
+	margin-right: 25%;
+}
+
+/*----------------------------------------------------------------*/
+
+.learning-1 .lessons p {
+	text-align: left;
+	line-height: 2;
+	color: white;
+}
+
+.learning-1 .lessons h3 {
+	text-align: left;
+	color: #a7e8db;
+}
+
+.learning-1 .lessons .skype {
+	float: left;
+	margin-right: 10%;
+	margin-left: 25%;
+}
+
+/* Learning 2  */
+
+.learning-2 {
+	padding: 100px;
+	margin-bottom: 10px;
+}
+
+.learning-2 img {
+	width: 10%;
+}
+/*----------------------------------------------------------------------*/
+
+.learning-2 .learn-anywhere {
+	margin-bottom: 250px;
+}
+
+.learning-2 .learn-anywhere p {
+	text-align: left;
+	line-height: 2;
+
+	margin-left: 25%;
+}
+
+.learning-2 .learn-anywhere h3 {
+	text-align: left;
+
+	margin-left: 25%;
+}
+
+.learning-2 .learn-anywhere .globe {
+	float: right;
+	margin-right: 25%;
+}
+
+/*--------------------------------------------------------------------------- */
+
+.learning-2 .tutors p {
+	text-align: left;
+	line-height: 2;
+}
+
+.learning-2 .tutors h3 {
+	text-align: left;
+}
+
+.learning-2 .tutors .diploma {
+	float: left;
+	margin-right: 10%;
+	margin-left: 25%;
+}
+
+/* Contact */
+
+.system-2 {
+	margin-top: 135px;
+	margin-bottom: 135px;
+}
+
+.contact {
+	width: 20%;
+	height: 500px;
+	background: #1abc9c;
+	padding: 50px;
+	margin: 100px auto;
+	border-radius: 30px;
+	position: relative;
+}
+
+.title h1 {
+	color: #fff;
+	letter-spacing: 2px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.form,
+.form-items {
+	width: 100%;
+}
+
+.form-items .input {
+	width: 100%;
+	margin-bottom: 12px;
+	padding: 15px 40px;
+	box-shadow: border-box;
+	background: #a7e8db;
+	border: 0;
+	outline: none;
+	border-radius: 30Px;
+	resize: none;
+}

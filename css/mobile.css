@@ -1,0 +1,213 @@
+/*Navbar*/
+
+#navbar {
+	padding: 35px;
+	
+}
+
+#navbar h1 {
+	float: none;
+	padding-top: 15px;
+}
+
+#navbar ul {
+	float: none;
+}
+
+#navbar ul li {
+	float: none;
+	padding-top: 20px;
+}
+
+#navbar ul li a {
+	padding: 0;
+}
+
+/* Top Container */
+
+.top-container {
+	padding-top: 100px;
+}
+
+.top-container h1 {
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+
+.top-container img {
+	width: 35%;
+	margin-bottom: 45px;
+	margin-top: 45px;
+}
+
+.top-container a {
+	padding: 20px 32px;
+	font-size: 16px;
+}
+
+.bottom-container {
+	padding-top: 35px;
+}
+.bottom-container .footer-link {
+	margin: 10px 10px;
+}
+
+/*About*/
+
+.about {
+	text-align: center;
+	margin-bottom: 75px;
+}
+
+.about img {
+	width: 20%;
+	margin-top: 75px;
+	margin-bottom: 75px;
+}
+
+.about h2 {
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.about p {
+	padding: 20px;
+	line-height: 1.5;
+	font-size: 16px;
+}
+
+/* Learning 1 */
+
+.learning-1 {
+	padding: 50px;
+	margin-bottom: 10px;
+}
+
+.learning-1 h3 p {
+	font-size: 16px;
+}
+
+.learning-1 img {
+	width: 25%;
+}
+
+/*--------------------------------------------------------------*/
+
+.learning-1 .fast-learning {
+	margin-bottom: 100px;
+}
+
+.learning-1 .fast-learning p {
+	text-align: center;
+	line-height: 1.5;
+	margin-left: 0;
+}
+
+.learning-1 .fast-learning h3 {
+	text-align: center;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+
+.learning-1 .fast-learning .student {
+	float: none;
+	margin-right: 0;
+	margin-bottom: 70px;
+}
+
+/*--------------------------------------------------------------*/
+
+.learning-1 .lessons p {
+	text-align: center;
+	line-height: 1.5;
+}
+
+.learning-1 .lessons h3 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.learning-1 .lessons .skype {
+	float: none;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 70px;
+}
+
+/* Learning 2  */
+
+.learning-2 {
+	padding: 50px;
+	margin-bottom: 10px;
+}
+
+.learning-2 img {
+	width: 20%;
+}
+
+/*----------------------------------------------------------------------*/
+
+.learning-2 .learn-anywhere {
+	margin-bottom: 100px;
+}
+
+.learning-2 .learn-anywhere p {
+	text-align: center;
+	line-height: 1.5;
+
+	margin-left: 0;
+}
+
+.learning-2 .learn-anywhere h3 {
+	margin-bottom: 20px;
+	text-align: center;
+	margin-left: 0;
+}
+
+.learning-2 .learn-anywhere .globe {
+	float: none;
+	margin-right: 0;
+	margin-bottom: 70px;
+}
+
+/*--------------------------------------------------------------------------- */
+
+.learning-2 .tutors p {
+	text-align: center;
+	line-height: 1.5;
+}
+
+.learning-2 .tutors h3 {
+	text-align: center;
+}
+
+.learning-2 .tutors .diploma {
+	float: none;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 70px;
+}
+
+
+
+
+/* Contact */
+
+.system-2 {
+	margin-top: -50px;
+	margin-bottom: -50px;
+}
+
+.contact {
+	width: 75%;
+}
+
+.title h1 {
+	font-size: 30px;
+	letter-spacing: 0;
+}
+
+.form,
+.form-items {
+	width: 100%;
+}

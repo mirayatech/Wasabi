@@ -14,3 +14,12 @@ An online educational website where you can learn fluent japanese. I wanted the 
 - How to add `Favivon` to your website with HTML
 - Heavily focused on the `float`  properties
 - Little knowledge of the `transition` property
+
+## How it looks:
+
+
+
+https://user-images.githubusercontent.com/71933266/170867913-763dad6f-bf02-456d-b031-64135bfdbe97.mov
+
+
+

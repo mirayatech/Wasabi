@@ -15,11 +15,9 @@ An online educational website where you can learn fluent japanese. I wanted the 
 - Heavily focused on the `float`  properties
 - Little knowledge of the `transition` property
 
-## How it looks:
+## How it looks 🎥
 
+**Live:** https://wasabi-learn-japanese.netlify.app/
 
-
-https://user-images.githubusercontent.com/71933266/170867913-763dad6f-bf02-456d-b031-64135bfdbe97.mov
-
-
+https://user-images.githubusercontent.com/71933266/170868091-4e7ead71-afa4-4295-866a-a69912d3851b.mov
 

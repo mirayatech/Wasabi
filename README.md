@@ -18,6 +18,3 @@ An online educational website where you can learn fluent japanese. I wanted the 
 ## How it looks 🎥
 
 **Live:** https://wasabi-learn-japanese.netlify.app/
-
-https://user-images.githubusercontent.com/71933266/170868091-4e7ead71-afa4-4295-866a-a69912d3851b.mov
-
